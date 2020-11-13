@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:4F28B62D
+NODE:I LEVEL:0 LINE:24 "C:\Program Files\CodeVision\inc\mega8535.h"
+NODE:M LEVEL:0 LINE:25 "boton"
+NODE:C LEVEL:0 LINE:26 "tabla7segmentos -> RAM:????"
+NODE:V LEVEL:0 LINE:27 "var1 -> R5"
+NODE:F LEVEL:0 LINE:30 "main(void)"
