@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:4F394A0B
+NODE:I LEVEL:0 LINE:20 "C:\Program Files\CodeVision\inc\mega8535.h"
+NODE:I LEVEL:0 LINE:21 "C:\Program Files\CodeVision\inc\delay.h"
+NODE:V LEVEL:0 LINE:23 "anterior -> R5"
+NODE:F LEVEL:0 LINE:25 "getPIN(void)"
+NODE:F LEVEL:0 LINE:54 "main(void)"

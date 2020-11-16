@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:4F3A3AB6
+NODE:I LEVEL:0 LINE:20 "C:\Program Files\CodeVision\inc\mega8535.h"
+NODE:I LEVEL:0 LINE:21 "C:\Program Files\CodeVision\inc\delay.h"
+NODE:V LEVEL:0 LINE:23 "opcion -> R5"
+NODE:V LEVEL:0 LINE:23 "var -> R4"
+NODE:F LEVEL:0 LINE:25 "main(void)"
