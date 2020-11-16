@@ -1,0 +1,37 @@
+RAM Allocation [bytes]
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+secuencia                                                         0x00E0      10
+
+EEPROM Allocation [bytes]
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+cuenta                                                            R5           1
+Inicio                                                            R4           1
+Clear                                                             R7           1
+Pausa                                                             R6           1
+i                                                                 R9           1
+j                                                                 R8           1
+botona_Adelante                                                   R2.0      1bit
+botona_Atras                                                      R2.1      1bit
+botona_Derecha                                                    R2.2      1bit
+botona_Izquierda                                                  R2.3      1bit
+botona_Start                                                      R2.4      1bit
+botona_Pause                                                      R2.5      1bit
+botona_Clear                                                      R2.6      1bit
+botonp_Adelante                                                   R2.7      1bit
+botonp_Atras                                                      R3.0      1bit
+botonp_Derecha                                                    R3.1      1bit
+botonp_Izquierda                                                  R3.2      1bit
+botonp_Start                                                      R3.3      1bit
+botonp_Pause                                                      R3.4      1bit
+botonp_Clear                                                      R3.5      1bit
+
+FLASH Allocation [words]
+Function                                                          Address   Size
+--------------------------------------------------------------------------------
+main                                                              0x0004F    318
