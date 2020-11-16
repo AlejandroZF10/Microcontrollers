@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:4F424CDA
+NODE:I LEVEL:0 LINE:24 "C:\Program Files\CodeVision\inc\mega8535.h"
+NODE:I LEVEL:0 LINE:25 "C:\Program Files\CodeVision\inc\delay.h"
+NODE:M LEVEL:0 LINE:26 "button"
+NODE:M LEVEL:0 LINE:27 "BCD2BIN"
+NODE:M LEVEL:0 LINE:28 "BIN2BCD"
+NODE:V LEVEL:0 LINE:29 "var -> R5"
+NODE:V LEVEL:0 LINE:29 "binVar -> R4"
+NODE:V LEVEL:0 LINE:30 "buttonP -> R2.0"
+NODE:V LEVEL:0 LINE:30 "buttonA -> R2.1"
+NODE:C LEVEL:0 LINE:32 "segmentTable -> RAM:????"
+NODE:F LEVEL:0 LINE:35 "main(void)"

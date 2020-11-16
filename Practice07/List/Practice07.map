@@ -1,0 +1,21 @@
+RAM Allocation [bytes]
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+segmentTable                                                      0x00E0      10
+
+EEPROM Allocation [bytes]
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+var                                                               R5           1
+binVar                                                            R4           1
+buttonP                                                           R2.0      1bit
+buttonA                                                           R2.1      1bit
+
+FLASH Allocation [words]
+Function                                                          Address   Size
+--------------------------------------------------------------------------------
+main                                                              0x00051    110
