@@ -1,0 +1,23 @@
+RAM Allocation [bytes]
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+tabla7segmentos                                                   0x00E0      10
+farenhei                                                          0x00EA       2
+
+EEPROM Allocation [bytes]
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+cn                                                                R4,R5        2
+centenas                                                          R6,R7        2
+decenas                                                           R8,R9        2
+unidades                                                          R10,R11      2
+centigrados                                                       R12,R13      2
+
+FLASH Allocation [words]
+Function                                                          Address   Size
+--------------------------------------------------------------------------------
+main                                                              0x00063    114
